@@ -1,6 +1,8 @@
 # Aymen Belkebir Mekki
 
-**[FORMATION — e.g. MSc student in Artificial Intelligence @ UNIVERSITY]** · interested in
+Final-year **Statistics Engineering** student at [ENSAI](https://ensai.fr) (Advanced Machine Learning track),
+double degree with a **Master 2 in Fundamental Mathematics** (Randomness track) at Université de Rennes.
+Background in probability, asymptotic and robust statistics, and optimization; now working on
 **LLM post-training** (SFT, preference optimisation, RL with verifiable rewards)
 and **agentic AI** (tool use, sandboxed environments, evaluation).
 
@@ -24,10 +26,17 @@ results and limitations in the README.
 
 ### Skills
 
+**Maths & stats:** probability · asymptotic statistics · robust estimation · convex optimisation · extreme value theory
 **ML:** PyTorch · Hugging Face (Transformers, Datasets, TRL, PEFT) · LoRA · SFT / DPO / GRPO · LLM evaluation
-**Engineering:** Python · Linux · Git · Docker · pytest · GitHub Actions · Google Colab / GPU
+**Engineering:** Python (NumPy, SciPy, Pandas) · R · SQL · Linux · Git · Docker · pytest · GitHub Actions
+
+### Research
+
+- *Robust estimation of the Generalized Pareto Distribution* (research internship, Univ. of Poitiers, 2026):
+  bounded-score M-estimators, influence functions, asymptotic normality, Monte-Carlo benchmarks.
+- *Universal approximation and risk bounds for RNNs in time-series prediction* (ongoing seminar, ENSAI).
 
 ### Currently
 
-- Learning: [WHAT YOU ARE LEARNING — e.g. multi-turn RL for agents, vLLM]
+- Learning: RL for LLMs (GRPO, reward design) and multi-turn agents
 - Looking for: a research internship in LLM post-training / agentic AI
