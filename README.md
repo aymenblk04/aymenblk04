@@ -26,9 +26,9 @@ results and limitations in the README.
 
 ### Skills
 
-**Maths & stats:** probability · asymptotic statistics · robust estimation · convex optimisation · extreme value theory
-**ML:** PyTorch · Hugging Face (Transformers, Datasets, TRL, PEFT) · LoRA · SFT / DPO / GRPO · LLM evaluation
-**Engineering:** Python (NumPy, SciPy, Pandas) · R · SQL · Linux · Git · Docker · pytest · GitHub Actions
+- **Maths & stats:** probability · asymptotic statistics · robust estimation · convex optimisation · extreme value theory
+- **ML:** PyTorch · Hugging Face (Transformers, Datasets, TRL, PEFT) · LoRA · SFT / DPO / GRPO · LLM evaluation
+- **Engineering:** Python (NumPy, SciPy, Pandas) · R · SQL · Linux · Git · Docker · pytest · GitHub Actions
 
 ### Research
 
