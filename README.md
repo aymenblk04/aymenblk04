@@ -6,7 +6,7 @@ Background in probability, asymptotic and robust statistics, and optimization; n
 **LLM post-training** (SFT, preference optimisation, RL with verifiable rewards)
 and **agentic AI** (tool use, sandboxed environments, evaluation).
 
-📫 aymenbelkebirmekki04@gmail.com · [LinkedIn](LINKEDIN_URL) · 🤗 [Hugging Face](HF_URL)
+📫 aymenbelkebirmekki04@gmail.com · [LinkedIn](LINKEDIN_URL) ·
 
 ---
 
