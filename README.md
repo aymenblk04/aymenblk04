@@ -12,7 +12,7 @@ and **agentic AI** (tool use, sandboxed environments, evaluation).
 
 ### Featured project: EpiChron
 
-An **epigenetic clock** that predicts biological age from DNA methylation.
+An **epigenetic clock** that predicts biological age from DNA methylation. Built with [akhdjoudi](https://github.com/akhdjoudi).
 **[Live site](https://epichron.vercel.app)** · [Code and write-up](https://github.com/akhdjoudi/epichron)
 
 - **3.0 years MAE on 729 people from a cohort never seen at training** (a different lab), with 249 CpG sites out of ~450,000
